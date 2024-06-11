@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Age in Dog Years (Numerical Exercise)/1.0.0": {
+        "runtime": {
+          "Age in Dog Years (Numerical Exercise).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Age in Dog Years (Numerical Exercise)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
