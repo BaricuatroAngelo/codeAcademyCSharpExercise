@@ -1,0 +1,14 @@
+D:\Cloned Repos\Code Academy C# Exercises\Operator Shortcuts (Numerical Exercise)\bin\Debug\net6.0\Operator Shortcuts (Numerical Exercise).exe
+D:\Cloned Repos\Code Academy C# Exercises\Operator Shortcuts (Numerical Exercise)\bin\Debug\net6.0\Operator Shortcuts (Numerical Exercise).deps.json
+D:\Cloned Repos\Code Academy C# Exercises\Operator Shortcuts (Numerical Exercise)\bin\Debug\net6.0\Operator Shortcuts (Numerical Exercise).runtimeconfig.json
+D:\Cloned Repos\Code Academy C# Exercises\Operator Shortcuts (Numerical Exercise)\bin\Debug\net6.0\Operator Shortcuts (Numerical Exercise).dll
+D:\Cloned Repos\Code Academy C# Exercises\Operator Shortcuts (Numerical Exercise)\bin\Debug\net6.0\Operator Shortcuts (Numerical Exercise).pdb
+D:\Cloned Repos\Code Academy C# Exercises\Operator Shortcuts (Numerical Exercise)\obj\Debug\net6.0\Operator Shortcuts (Numerical Exercise).GeneratedMSBuildEditorConfig.editorconfig
+D:\Cloned Repos\Code Academy C# Exercises\Operator Shortcuts (Numerical Exercise)\obj\Debug\net6.0\Operator Shortcuts (Numerical Exercise).AssemblyInfoInputs.cache
+D:\Cloned Repos\Code Academy C# Exercises\Operator Shortcuts (Numerical Exercise)\obj\Debug\net6.0\Operator Shortcuts (Numerical Exercise).AssemblyInfo.cs
+D:\Cloned Repos\Code Academy C# Exercises\Operator Shortcuts (Numerical Exercise)\obj\Debug\net6.0\Operator Shortcuts (Numerical Exercise).csproj.CoreCompileInputs.cache
+D:\Cloned Repos\Code Academy C# Exercises\Operator Shortcuts (Numerical Exercise)\obj\Debug\net6.0\Operator Shortcuts (Numerical Exercise).dll
+D:\Cloned Repos\Code Academy C# Exercises\Operator Shortcuts (Numerical Exercise)\obj\Debug\net6.0\refint\Operator Shortcuts (Numerical Exercise).dll
+D:\Cloned Repos\Code Academy C# Exercises\Operator Shortcuts (Numerical Exercise)\obj\Debug\net6.0\Operator Shortcuts (Numerical Exercise).pdb
+D:\Cloned Repos\Code Academy C# Exercises\Operator Shortcuts (Numerical Exercise)\obj\Debug\net6.0\Operator Shortcuts (Numerical Exercise).genruntimeconfig.cache
+D:\Cloned Repos\Code Academy C# Exercises\Operator Shortcuts (Numerical Exercise)\obj\Debug\net6.0\ref\Operator Shortcuts (Numerical Exercise).dll
