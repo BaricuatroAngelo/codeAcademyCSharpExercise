@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Cloned Repos\\Code Academy C# Exercises\\Finishing Exercise (Numerical Exercise)\\Finishing Exercise (Numerical Exercise).csproj",
-      "projectName": "Finishing Exercise (Numerical Exercise)",
-      "projectPath": "D:\\Cloned Repos\\Code Academy C# Exercises\\Finishing Exercise (Numerical Exercise)\\Finishing Exercise (Numerical Exercise).csproj",
+      "projectUniqueName": "D:\\Cloned Repos\\Code Academy C# Exercises\\Finishing Exercise (Numerical Exercise)\\Compound Interest (Numerical Exercise).csproj",
+      "projectName": "Compound Interest (Numerical Exercise)",
+      "projectPath": "D:\\Cloned Repos\\Code Academy C# Exercises\\Finishing Exercise (Numerical Exercise)\\Compound Interest (Numerical Exercise).csproj",
       "packagesPath": "C:\\Users\\zmaca\\.nuget\\packages\\",
       "outputPath": "D:\\Cloned Repos\\Code Academy C# Exercises\\Finishing Exercise (Numerical Exercise)\\obj\\",
       "projectStyle": "PackageReference",
