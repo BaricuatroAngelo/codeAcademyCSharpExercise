@@ -1,0 +1,14 @@
+D:\Cloned Repos\Code Academy C# Exercises\Arithmetic Operations (Numerical Exercise)\bin\Debug\net6.0\Arithmetic Operations (Numerical Exercise).exe
+D:\Cloned Repos\Code Academy C# Exercises\Arithmetic Operations (Numerical Exercise)\bin\Debug\net6.0\Arithmetic Operations (Numerical Exercise).deps.json
+D:\Cloned Repos\Code Academy C# Exercises\Arithmetic Operations (Numerical Exercise)\bin\Debug\net6.0\Arithmetic Operations (Numerical Exercise).runtimeconfig.json
+D:\Cloned Repos\Code Academy C# Exercises\Arithmetic Operations (Numerical Exercise)\bin\Debug\net6.0\Arithmetic Operations (Numerical Exercise).dll
+D:\Cloned Repos\Code Academy C# Exercises\Arithmetic Operations (Numerical Exercise)\bin\Debug\net6.0\Arithmetic Operations (Numerical Exercise).pdb
+D:\Cloned Repos\Code Academy C# Exercises\Arithmetic Operations (Numerical Exercise)\obj\Debug\net6.0\Arithmetic Operations (Numerical Exercise).GeneratedMSBuildEditorConfig.editorconfig
+D:\Cloned Repos\Code Academy C# Exercises\Arithmetic Operations (Numerical Exercise)\obj\Debug\net6.0\Arithmetic Operations (Numerical Exercise).AssemblyInfoInputs.cache
+D:\Cloned Repos\Code Academy C# Exercises\Arithmetic Operations (Numerical Exercise)\obj\Debug\net6.0\Arithmetic Operations (Numerical Exercise).AssemblyInfo.cs
+D:\Cloned Repos\Code Academy C# Exercises\Arithmetic Operations (Numerical Exercise)\obj\Debug\net6.0\Arithmetic Operations (Numerical Exercise).csproj.CoreCompileInputs.cache
+D:\Cloned Repos\Code Academy C# Exercises\Arithmetic Operations (Numerical Exercise)\obj\Debug\net6.0\Arithmetic Operations (Numerical Exercise).dll
+D:\Cloned Repos\Code Academy C# Exercises\Arithmetic Operations (Numerical Exercise)\obj\Debug\net6.0\refint\Arithmetic Operations (Numerical Exercise).dll
+D:\Cloned Repos\Code Academy C# Exercises\Arithmetic Operations (Numerical Exercise)\obj\Debug\net6.0\Arithmetic Operations (Numerical Exercise).pdb
+D:\Cloned Repos\Code Academy C# Exercises\Arithmetic Operations (Numerical Exercise)\obj\Debug\net6.0\Arithmetic Operations (Numerical Exercise).genruntimeconfig.cache
+D:\Cloned Repos\Code Academy C# Exercises\Arithmetic Operations (Numerical Exercise)\obj\Debug\net6.0\ref\Arithmetic Operations (Numerical Exercise).dll
