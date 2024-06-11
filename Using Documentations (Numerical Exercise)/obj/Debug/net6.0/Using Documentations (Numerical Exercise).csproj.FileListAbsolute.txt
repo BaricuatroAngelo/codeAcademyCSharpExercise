@@ -1,0 +1,14 @@
+D:\Cloned Repos\Code Academy C# Exercises\Using Documentations (Numerical Exercise)\bin\Debug\net6.0\Using Documentations (Numerical Exercise).exe
+D:\Cloned Repos\Code Academy C# Exercises\Using Documentations (Numerical Exercise)\bin\Debug\net6.0\Using Documentations (Numerical Exercise).deps.json
+D:\Cloned Repos\Code Academy C# Exercises\Using Documentations (Numerical Exercise)\bin\Debug\net6.0\Using Documentations (Numerical Exercise).runtimeconfig.json
+D:\Cloned Repos\Code Academy C# Exercises\Using Documentations (Numerical Exercise)\bin\Debug\net6.0\Using Documentations (Numerical Exercise).dll
+D:\Cloned Repos\Code Academy C# Exercises\Using Documentations (Numerical Exercise)\bin\Debug\net6.0\Using Documentations (Numerical Exercise).pdb
+D:\Cloned Repos\Code Academy C# Exercises\Using Documentations (Numerical Exercise)\obj\Debug\net6.0\Using Documentations (Numerical Exercise).GeneratedMSBuildEditorConfig.editorconfig
+D:\Cloned Repos\Code Academy C# Exercises\Using Documentations (Numerical Exercise)\obj\Debug\net6.0\Using Documentations (Numerical Exercise).AssemblyInfoInputs.cache
+D:\Cloned Repos\Code Academy C# Exercises\Using Documentations (Numerical Exercise)\obj\Debug\net6.0\Using Documentations (Numerical Exercise).AssemblyInfo.cs
+D:\Cloned Repos\Code Academy C# Exercises\Using Documentations (Numerical Exercise)\obj\Debug\net6.0\Using Documentations (Numerical Exercise).csproj.CoreCompileInputs.cache
+D:\Cloned Repos\Code Academy C# Exercises\Using Documentations (Numerical Exercise)\obj\Debug\net6.0\Using Documentations (Numerical Exercise).dll
+D:\Cloned Repos\Code Academy C# Exercises\Using Documentations (Numerical Exercise)\obj\Debug\net6.0\refint\Using Documentations (Numerical Exercise).dll
+D:\Cloned Repos\Code Academy C# Exercises\Using Documentations (Numerical Exercise)\obj\Debug\net6.0\Using Documentations (Numerical Exercise).pdb
+D:\Cloned Repos\Code Academy C# Exercises\Using Documentations (Numerical Exercise)\obj\Debug\net6.0\Using Documentations (Numerical Exercise).genruntimeconfig.cache
+D:\Cloned Repos\Code Academy C# Exercises\Using Documentations (Numerical Exercise)\obj\Debug\net6.0\ref\Using Documentations (Numerical Exercise).dll
