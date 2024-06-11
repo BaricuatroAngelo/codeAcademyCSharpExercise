@@ -1,0 +1,14 @@
+D:\Cloned Repos\Code Academy C# Exercises\Finishing Exercise (Numerical Exercise)\bin\Debug\net6.0\Finishing Exercise (Numerical Exercise).exe
+D:\Cloned Repos\Code Academy C# Exercises\Finishing Exercise (Numerical Exercise)\bin\Debug\net6.0\Finishing Exercise (Numerical Exercise).deps.json
+D:\Cloned Repos\Code Academy C# Exercises\Finishing Exercise (Numerical Exercise)\bin\Debug\net6.0\Finishing Exercise (Numerical Exercise).runtimeconfig.json
+D:\Cloned Repos\Code Academy C# Exercises\Finishing Exercise (Numerical Exercise)\bin\Debug\net6.0\Finishing Exercise (Numerical Exercise).dll
+D:\Cloned Repos\Code Academy C# Exercises\Finishing Exercise (Numerical Exercise)\bin\Debug\net6.0\Finishing Exercise (Numerical Exercise).pdb
+D:\Cloned Repos\Code Academy C# Exercises\Finishing Exercise (Numerical Exercise)\obj\Debug\net6.0\Finishing Exercise (Numerical Exercise).GeneratedMSBuildEditorConfig.editorconfig
+D:\Cloned Repos\Code Academy C# Exercises\Finishing Exercise (Numerical Exercise)\obj\Debug\net6.0\Finishing Exercise (Numerical Exercise).AssemblyInfoInputs.cache
+D:\Cloned Repos\Code Academy C# Exercises\Finishing Exercise (Numerical Exercise)\obj\Debug\net6.0\Finishing Exercise (Numerical Exercise).AssemblyInfo.cs
+D:\Cloned Repos\Code Academy C# Exercises\Finishing Exercise (Numerical Exercise)\obj\Debug\net6.0\Finishing Exercise (Numerical Exercise).csproj.CoreCompileInputs.cache
+D:\Cloned Repos\Code Academy C# Exercises\Finishing Exercise (Numerical Exercise)\obj\Debug\net6.0\Finishing Exercise (Numerical Exercise).dll
+D:\Cloned Repos\Code Academy C# Exercises\Finishing Exercise (Numerical Exercise)\obj\Debug\net6.0\refint\Finishing Exercise (Numerical Exercise).dll
+D:\Cloned Repos\Code Academy C# Exercises\Finishing Exercise (Numerical Exercise)\obj\Debug\net6.0\Finishing Exercise (Numerical Exercise).pdb
+D:\Cloned Repos\Code Academy C# Exercises\Finishing Exercise (Numerical Exercise)\obj\Debug\net6.0\Finishing Exercise (Numerical Exercise).genruntimeconfig.cache
+D:\Cloned Repos\Code Academy C# Exercises\Finishing Exercise (Numerical Exercise)\obj\Debug\net6.0\ref\Finishing Exercise (Numerical Exercise).dll
