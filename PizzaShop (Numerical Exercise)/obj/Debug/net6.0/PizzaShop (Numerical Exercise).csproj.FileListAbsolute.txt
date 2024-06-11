@@ -1,0 +1,14 @@
+D:\Cloned Repos\Code Academy C# Exercises\PizzaShop (Numerical Exercise)\bin\Debug\net6.0\PizzaShop (Numerical Exercise).exe
+D:\Cloned Repos\Code Academy C# Exercises\PizzaShop (Numerical Exercise)\bin\Debug\net6.0\PizzaShop (Numerical Exercise).deps.json
+D:\Cloned Repos\Code Academy C# Exercises\PizzaShop (Numerical Exercise)\bin\Debug\net6.0\PizzaShop (Numerical Exercise).runtimeconfig.json
+D:\Cloned Repos\Code Academy C# Exercises\PizzaShop (Numerical Exercise)\bin\Debug\net6.0\PizzaShop (Numerical Exercise).dll
+D:\Cloned Repos\Code Academy C# Exercises\PizzaShop (Numerical Exercise)\bin\Debug\net6.0\PizzaShop (Numerical Exercise).pdb
+D:\Cloned Repos\Code Academy C# Exercises\PizzaShop (Numerical Exercise)\obj\Debug\net6.0\PizzaShop (Numerical Exercise).GeneratedMSBuildEditorConfig.editorconfig
+D:\Cloned Repos\Code Academy C# Exercises\PizzaShop (Numerical Exercise)\obj\Debug\net6.0\PizzaShop (Numerical Exercise).AssemblyInfoInputs.cache
+D:\Cloned Repos\Code Academy C# Exercises\PizzaShop (Numerical Exercise)\obj\Debug\net6.0\PizzaShop (Numerical Exercise).AssemblyInfo.cs
+D:\Cloned Repos\Code Academy C# Exercises\PizzaShop (Numerical Exercise)\obj\Debug\net6.0\PizzaShop (Numerical Exercise).csproj.CoreCompileInputs.cache
+D:\Cloned Repos\Code Academy C# Exercises\PizzaShop (Numerical Exercise)\obj\Debug\net6.0\PizzaShop (Numerical Exercise).dll
+D:\Cloned Repos\Code Academy C# Exercises\PizzaShop (Numerical Exercise)\obj\Debug\net6.0\refint\PizzaShop (Numerical Exercise).dll
+D:\Cloned Repos\Code Academy C# Exercises\PizzaShop (Numerical Exercise)\obj\Debug\net6.0\PizzaShop (Numerical Exercise).pdb
+D:\Cloned Repos\Code Academy C# Exercises\PizzaShop (Numerical Exercise)\obj\Debug\net6.0\PizzaShop (Numerical Exercise).genruntimeconfig.cache
+D:\Cloned Repos\Code Academy C# Exercises\PizzaShop (Numerical Exercise)\obj\Debug\net6.0\ref\PizzaShop (Numerical Exercise).dll
